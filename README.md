@@ -1,4 +1,4 @@
-# End-to-End Supply Chain Analytics Project
+# Supply Chain Analytics Project
 
 ## Project Overview
 This project is an end-to-end data analytics solution developed as a Graduation Project for the
