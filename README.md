@@ -33,4 +33,4 @@ The objective is to transform raw supply chain data into actionable business ins
 
 ## Notes
 - Power BI dashboard file requires Power BI Desktop
-- Project includes SQL scripts, Python notebooks, and presentation
+- Project includes CSV File, SQL scripts and Python notebooks.
